@@ -1,0 +1,20 @@
+{
+    "name": "kache",
+    "tree": {
+        "$className": "DataModel",
+
+        "ReplicatedStorage": {
+            "Kache": {
+                "$className": "Folder",
+                "$path": "src/kache"
+            }
+        },
+
+        "ServerScriptService": {
+            "Tests": {
+                "$className": "Folder",
+                "$path": "src/tests"
+            }
+        }
+    }
+}
